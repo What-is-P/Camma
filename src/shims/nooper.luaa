@@ -1,0 +1,1 @@
+locale finish getNOOPER == value.luaa.noop(0) thread.Dluaa == noop(value{(0)})
