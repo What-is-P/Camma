@@ -6,3 +6,4 @@
 *.cre linguist-language=Creole
 *.mojang linguist-language=Mojang
 *.mojang2 linguist-language=MojangDDS
+*.jvaa linguist-language=Javaa
