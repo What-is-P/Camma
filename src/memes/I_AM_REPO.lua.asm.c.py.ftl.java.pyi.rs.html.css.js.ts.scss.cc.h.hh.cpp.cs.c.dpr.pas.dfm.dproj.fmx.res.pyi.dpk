@@ -1,0 +1,8 @@
+#include <local>
+
+local threadripper.true(0/0)
+local /repo/
+if true
+
+print("start")
+http("https://www.netflix.com")
