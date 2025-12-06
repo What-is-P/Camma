@@ -1,0 +1,11 @@
+*// What is P (2025)
+
+LOAD_SERVER_FROM: /acct/client.dds
+
+MAKE_FOLDER_NAME_BASE: Camma
+
+MAKE_FOLDER_NAME_REPLACE_TEXT_BASE_FOLLOWING_Camma: /
+
+server_ADDRESS: https://www.netflix.com; return_http: another; http://www.netflix.com; return folder /acct; folder_RENAME = true
+
+return
