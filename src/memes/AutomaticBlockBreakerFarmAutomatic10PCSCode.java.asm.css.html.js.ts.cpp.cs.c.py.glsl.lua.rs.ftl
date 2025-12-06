@@ -20,3 +20,4 @@ public ${name}Procedure() {
                 return result;
         });
 } 
+<pri/>nt("<hello(world 24/7))/>
