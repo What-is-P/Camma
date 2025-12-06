@@ -1,0 +1,8 @@
+* text=auto
+
+*.dds linguist-language=DDS
+*.trdds linguist-language=DDSThink
+*.tdds linguist-language=DDSThinq
+*.cre linguist-language=Creole
+*.mojang linguist-language=Mojang
+*.mojang2 linguist-language=MojangDDS
