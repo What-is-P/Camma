@@ -1,0 +1,2 @@
+    public Loader() {
+        this(true); 
