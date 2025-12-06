@@ -1,1 +1,23 @@
- 
+*// What is P (2025)
+
+client.buffer.time = 0.5s
+client.buffer = g
+client.buffer = true
+
+if client command.loading;
+delay: 0.2s
+
+delay: 0.2s
+delay.buffer: 0.5s
+
+store_DEVICE = local
+store_SERVER = true
+store_SERVER_address = https://www.netflix.com
+store_SERVER_address_HTTP = true
+store_SERVER_address_HTTP = http://www.netflix.com
+
+license = MIT
+
+return;
+
+true
