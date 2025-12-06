@@ -1,0 +1,13 @@
+[package]
+name = "file_e2ee"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes-gcm = "0.10"              # Authenticated symmetric encryption
+aes = "0.8"
+argon2 = "0.4"                # Key derivation function using Argon2id
+rand = "0.8"                  # Random number generation for nonce
+walkdir = "2.3"               # Directory traversal
+base64 = "0.13"               # For key/nonce encoding
+anyhow = "1.0"                # For error handling
