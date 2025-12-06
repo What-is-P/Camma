@@ -9,3 +9,4 @@
 *.jvaa linguist-language=Javaa
 *.on linguist-language=OnAl
 *.luaa linguist-language=Luaa
+*.torque linguist-language=Torque
