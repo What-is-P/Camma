@@ -6,11 +6,3 @@
 *.cre linguist-language=Creole
 *.mojang linguist-language=Mojang
 *.mojang2 linguist-language=MojangDDS
-*.glsl linguist-language=GLeSL
-*.vert linguist-language=Vertex
-*.frag linguist-language=Fragment
-*.toml linguist-language=TOML
-*.lock linguist-language=Lock
-*.creole linguist-language=CreoleDDS
-*.rst linguist-language=RustOriginal
-*.csv linguist-language=CSV
