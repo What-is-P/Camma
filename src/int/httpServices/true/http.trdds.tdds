@@ -1,0 +1,6 @@
+TRDDS_TDDS = go.true
+
+   if httpService = false
+   get(httpService in thread.folder.Camma.all.folder.file.rename./)
+   useApi.qlib(REST)
+   ver(latest: exclude(first = true))
