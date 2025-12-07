@@ -1,1 +1,7 @@
- 
+*// What is P (2025)
+
+UI_contact_USER = true
+UI_SUPPORT = all == example(hovers, buttons, etc)
+UI_comp_TYPES_compiler=true.true=true = WIN32: 32-bit, 64-bit; Cocoa: 32-bit, 64-bit, 16-bit; Wayland: 16-bit, 32-bit, 64-bit;
+
+return all
