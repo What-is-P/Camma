@@ -10,3 +10,10 @@ And it is made by myself.
 # How it works
 
 you should execute or compile all of this shit code, and then do it over and over again until you have it, or use a compiler that compiles every file it has, if you are lazy.
+
+# System requirements (stricter compared to Amoon)
+
+16MB of RAM
+2 cores on your CPU
+256MB of VRAM
+at least 1GB of SATA storage or higher (PCIE storage is recommended)
