@@ -14,6 +14,9 @@ you should execute or compile all of this shit code, and then do it over and ove
 # System requirements (stricter compared to Amoon)
 
 16MB of RAM
+
 2 cores on your CPU
+
 256MB of VRAM
+
 at least 1GB of SATA storage or higher (PCIE storage is recommended)
