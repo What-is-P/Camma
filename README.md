@@ -13,10 +13,14 @@ you should execute or compile all of this shit code, and then do it over and ove
 
 # System requirements (stricter compared to Amoon)
 
-16MB of RAM
+16MB of RAM (optional)
 
-2 cores on your CPU
+2 cores on your CPU (optional)
 
-256MB of VRAM
+11MB of VRAM
 
-at least 1GB of SATA storage or higher (PCIE storage is recommended)
+at foremost 1GB of SATA storage or higher (PCIE storage is recommended)
+
+# Redstone
+
+Redstone is a highly capable, all-purpose programming language that is developed using C, raku, and 17 other popular programming languages, including python, lua, and so on.
