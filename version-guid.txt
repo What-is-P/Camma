@@ -1,0 +1,5 @@
+sm7
+sm70
+version-sm8
+sml-smla
+version-sm80
