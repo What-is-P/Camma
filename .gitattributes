@@ -10,3 +10,5 @@
 *.on linguist-language=OnAl
 *.luaa linguist-language=Luaa
 *.torque linguist-language=Torque
+*.rd linguist-language=Redstone
+*.src linguist-language=SrcCastle/Src
